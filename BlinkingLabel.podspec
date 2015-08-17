@@ -18,12 +18,12 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
                        This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.
-
-  s.homepage         = "https://github.com/tielur/BlinkingLabel "
+                       DESC
+  s.homepage         = "https://github.com/tielur/BlinkingLabel"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Tyler Clemens" => "tyler.r.clemens@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/BlinkingLabel.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/tielur/BlinkingLabel.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
