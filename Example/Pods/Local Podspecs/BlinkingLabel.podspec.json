@@ -1,15 +1,15 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "A subclass on UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.",
+  "homepage": "https://github.com/tielur/BlinkingLabel",
   "license": "MIT",
   "authors": {
     "Tyler Clemens": "tyler.r.clemens@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel.git",
+    "git": "https://github.com/tielur/BlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {
