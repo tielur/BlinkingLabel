@@ -7,7 +7,12 @@
 //
 
 @import UIKit;
+@import BlinkingLabel;
 
 @interface BLViewController : UIViewController
+
+@property BOOL isBlinking;
+@property BlinkingLabel *blinkingLabel;
+@property UIButton *toggleButton;
 
 @end
